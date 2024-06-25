@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Le nom du projet est Mon CV
+Le projet consiste a utiliser figma et react js pour designer deux differents templates.
+Il y a un seul fichier figma MY-CV.fig et le reste des fichiers est a l'interieur du dossier react cv.
+Il faut retirer le fichier figma MY-CV.fig pour les fichiers que contient le dossier react.
